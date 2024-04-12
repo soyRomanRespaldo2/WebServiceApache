@@ -1,0 +1,5 @@
+package co.com.roman.microservice.resolveEnigmaApi.strategy;
+
+public class RestTemplateService {
+
+}

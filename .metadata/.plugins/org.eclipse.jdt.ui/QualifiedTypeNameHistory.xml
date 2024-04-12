@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="co.com.roman.microservice.resolveEnigmaApi.model.Header"/>
+    <fullyQualifiedTypeName name="org.apache.camel.Exchange"/>
+    <fullyQualifiedTypeName name="co.com.roman.microservice.resolveEnigmaApi.model.client.ClientJsonApiBodyResponseSuccess"/>
+    <fullyQualifiedTypeName name="co.com.roman.microservice.resolveEnigmaApi.model.JsonApiBodyRequest"/>
+    <fullyQualifiedTypeName name="org.apache.camel.builder.RouteBuilder"/>
+</qualifiedTypeNameHistroy>
